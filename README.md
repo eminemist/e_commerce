@@ -1,4 +1,4 @@
-# amazon_clone
+# E-commerce
 
 A new Flutter project.
 
